@@ -7,4 +7,6 @@ I know programming languages like:<br>
 2) css(not pm), scss, tailwind css; <br>
 3) javascript, typescript, jquery;
 4) vue, vuex;
-5) php, laravel;
+5) nuxt 3;
+6) node.js, express;
+7) php, laravel;
