@@ -1,6 +1,6 @@
 Hello, I am a student of a technical school by profession a programmer <br>
 <br>
-I work as a freelance <b>front-end</b> developer<br>
+I work as a freelance <b>front-end</b>, <b>back-end</b> and <b>full-stack</b> developer<br>
 <br>
 I know programming languages like:<br>
 1) html(not pm), pug;<br>
