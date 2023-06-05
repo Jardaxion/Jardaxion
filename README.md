@@ -1,5 +1,4 @@
 Hello, I am a student of a technical school by profession a programmer <br>
-<img src="https://user-images.githubusercontent.com/106549605/230705555-18ac0179-1242-4575-a8da-0e26950a483b.png" /> <br>
 I work as a freelance <b>front-end</b>, <b>back-end</b> and <b>full-stack</b> developer<br>
 <br>
 Programming language:<br><br>
