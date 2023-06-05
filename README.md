@@ -5,4 +5,4 @@ I work as a freelance <b>front-end</b>, <b>back-end</b> and <b>full-stack</b> de
 Programming language<br>
 ![JavaSciprt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png)
 ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)
-![Node JS](https://plugins.jetbrains.com/files/6098/342574/icon/pluginIcon.png)
+![Node JS](https://plugins.jetbrains.com/files/6098/342574/icon/pluginIcon.pn)
